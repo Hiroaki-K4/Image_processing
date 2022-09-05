@@ -1,3 +1,0 @@
-/home/hiroakik4/mypro/Image_processing/build/CMakeFiles/rebuild_cache.dir
-/home/hiroakik4/mypro/Image_processing/build/CMakeFiles/edit_cache.dir
-/home/hiroakik4/mypro/Image_processing/build/CMakeFiles/a.out.dir

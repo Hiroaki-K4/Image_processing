@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/a.out.dir/extract_feature/main.cpp.o  -o a.out 
